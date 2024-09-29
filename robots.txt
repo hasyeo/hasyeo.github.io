@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hasyeo.github.io/xnG/sitemap.xnG.gz
